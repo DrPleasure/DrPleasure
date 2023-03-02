@@ -4,6 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Developer
 -------------------
 
+<img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+
+
 * 🌍  I'm based in Copenhagen
 * ✉️  You can contact me at [olaf.glad.dk@gmail.com](mailto:olaf.glad.dk@gmail.com)
 * 🧠  I'm learning threejs
